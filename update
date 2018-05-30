@@ -1,0 +1,11 @@
+<ServiceData>{
+["Update"]={
+["UseVersionName"]="true",
+["Force"]="true",
+["ChangeLog"]="1\
+2\
+3",
+["DownloadUrl"]="https://github.com/Sherlockwoo/pingjiaoxiaozhushou/raw/master/apk/%E8%AF%84%E6%95%99%E5%B0%8F%E5%8A%A9%E6%89%8B_2.0.1.apk",
+["Version"]="23",
+},
+}</ServiceData>
